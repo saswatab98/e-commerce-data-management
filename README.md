@@ -37,3 +37,11 @@ product_details/: JSON files storing detailed product information.
 
 product_descriptions/: TXT files containing product descriptions.
 
+# Contributions
+
+Feel free to fork this repository and contribute to its development.
+
+# Contact
+
+For any queries, connect with me on LinkedIn: https://www.linkedin.com/in/saswata-banerjee
+
