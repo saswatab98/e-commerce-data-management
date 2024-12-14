@@ -43,5 +43,5 @@ Feel free to fork this repository and contribute to its development.
 
 # Contact
 
-For any queries, connect with me on LinkedIn: https://www.linkedin.com/in/saswata-banerjee
+For any queries, connect with me on LinkedIn:(https://www.linkedin.com/in/saswata-banerjee-0b727615a/)
 
